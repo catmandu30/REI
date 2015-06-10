@@ -1,2 +1,3 @@
 # REI
-REI coding project
+REI coding project - Shopping Cart 
+
